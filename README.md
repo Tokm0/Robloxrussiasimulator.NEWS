@@ -29,8 +29,8 @@
     <table>
         <tr>
             <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077311248619810948/Fotka.tokmo.PNG" width="100%" ></td>
-            <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077324997229551636/CompressJPEG.online_512x512_image_10.PNG" width="500" height="600"></td>
-            <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077325157691052163/CompressJPEG.online_512x512_image_11.PNG" width="500" height="600"></td>
+            <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077324997229551636/CompressJPEG.online_512x512_image_10.PNG" width="100%" ></td>
+            <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077325157691052163/CompressJPEG.online_512x512_image_11.PNG" width="100%" ></td>
         </tr>
     </table>
 </body>
