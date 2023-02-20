@@ -22,7 +22,7 @@
 </head>
 <body>
    
-    <h2 style="color:aliceblue">1.2.0:update</h2>
+    <h2 style="color:aliceblue">1.2.0:update <a href="https://tokm0.github.io/Robloxrussiasimuator.github.io/">Back home</a> </h2>
     <p>
         In the latest update, we added the HQ building.
     </p>
