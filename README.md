@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <h1 style="color:Tomato;>NEWS</h1style="color:Tomato;>NEWS</h1>
+   
     <h2 style="color:aliceblue">1.2.0:update</h2>
     <p>
         In the latest update, we added the HQ building.
