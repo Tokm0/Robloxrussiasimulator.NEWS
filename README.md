@@ -24,13 +24,14 @@
    
     <h2 style="color:aliceblue">1.2.0:update <a href="https://tokm0.github.io/Robloxrussiasimuator.github.io/">Back home</a> </h2>
     <p>
-        In the latest update, we added the HQ building.
+        In the latest update, we added the HQ building.<br>
+And the possibility of jumping from a plane.
     </p>
     <table>
         <tr>
             <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077311248619810948/Fotka.tokmo.PNG" width="100%" ></td>
             <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077324997229551636/CompressJPEG.online_512x512_image_10.PNG" width="100%" ></td>
-            <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077325157691052163/CompressJPEG.online_512x512_image_11.PNG" width="100%" ></td>
+            <td><img src="https://cdn.discordapp.com/attachments/923886488968634390/1077330600186359858/5156151651.PNG" width="100%" ></td>
         </tr>
     </table>
 </body>
